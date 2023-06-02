@@ -14,7 +14,7 @@ main {
     min-height: 500px;
     display: flex;
     justify-content: space-between;
-    margin-top:1rem;
+    margin-top:2rem;
 }
 
 main>div {
